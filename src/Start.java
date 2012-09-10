@@ -16,7 +16,7 @@ public class Start {
 
         public void SquareDisp(){
 
-            System.out.println("Called Sqre Display");
+            System.out.println("Called Square Display");
         }
         public void RectDisplay(String param){
             int p=Integer.parseInt(param);
